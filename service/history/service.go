@@ -163,3 +163,5 @@ func (s *Service) Stop() {
 
 	s.GetLogger().Info("history stopped")
 }
+
+// qemu-impact-test: simulated small PR change
